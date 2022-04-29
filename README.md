@@ -3,7 +3,7 @@
 <p align="center" width="150px"> I am a computer engineer who is passionate about learning new technologies. Interested in web development, software development, and system design architecture.</p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkkasem&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=mkkasem&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-### 🛠 &nbsp;Tech Stack
+🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -33,9 +33,11 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
 
-### link: &nbsp;Connect with me
-
+### links: &nbsp;Connect with me via 
 <p align="center">
-<a href="https://www.linkedin.com/in/mahmoudalkasem/"><img src="https://img.shields.io/badge/-Mahmoud%20Alkasem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mahmoudalkasem1997@gmail.com"><img src="https://img.shields.io/badge/-mahmoudalkasem1997@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mahmoudalkasem/"><img src="https://img.shields.io/badge/-LinkedIn%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://mkkasem.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+<a href="mailto:mahmoudalkasem1997@gmail.com"><img src="https://img.shields.io/badge/-gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+
+
 
